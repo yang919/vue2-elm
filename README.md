@@ -319,4 +319,4 @@ npm run dev
 # License
 
 [GPL](https://github.com/bailicangdu/vue2-elm/blob/master/COPYING)
-yy
+
